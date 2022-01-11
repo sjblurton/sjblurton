@@ -47,8 +47,8 @@
 </details>
 <details>
   <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 </details> -->
+  <img align="left" alt="Simon Blurton GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sjblurton&show_icons=true&hide_border=true" />
 
 [website]: https://simon-blurton.netlify.app/
 [linkedin]: https://www.linkedin.com/in/simon-blurton/
