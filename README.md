@@ -1,6 +1,4 @@
-### Hi there, I'm Simon Blurton - aka [MyPortfolio][website] 👋
-
-[![Website](https://simon-blurton.netlify.app/](https://simon-blurton.netlify.app/)
+### Hi there, I'm Simon Blurton - [MyPortfolio][website] 👋
 
 ## I'm a Rock Climber, Mountain Biker, and Developer!!
 
@@ -52,3 +50,4 @@
 </details>
 [website]: https://simon-blurton.netlify.app/
 [linkedin]: https://www.linkedin.com/in/simon-blurton/
+[latest]: https://github.com/sjblurton/vegan-climbing-shoes/
