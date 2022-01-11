@@ -12,6 +12,7 @@
 
 [<img align="left" alt="https://simon-blurton.netlify.app/" width="22px" src="https://simon-blurton.netlify.app/favicon.svg" />][website]
 [<img align="left" alt="Simon Blurton | LinkedIn" width="22px" src="https://cdn.freebiesupply.com/logos/large/2x/linkedin-icon-logo-png-transparent.png" />][linkedin]
+[<img align="left" alt="Simon Blurton | Email" width="22px" src="https://www.logolynx.com/images/logolynx/1f/1f9a438eaaf4f20885ecd763723479e7.png" />](mailto:sblurton@hotmail.co.uk)
 <br />
 
 ### Languages and Tools:
@@ -28,8 +29,8 @@
 [<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][website]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][website]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]
-[<img align="left" alt="GitHub" width="26px" src="https://blogthinkbig.com/wp-content/uploads/sites/4/2020/06/GitHub-Desktop-Logo.jpg?fit=1500%2C1000" />][website]
-[<img align="left" alt="Styled-components" width="26px" src="https://lxspandora.gallerycdn.vsassets.io/extensions/lxspandora/vscode-styled-components-snippets/1.0.2/1506443337800/Microsoft.VisualStudio.Services.Icons.Default" />][website]
+[<img align="left" alt="GitHub" width="26px" src="https://bitemycoin.com/wp-content/uploads/2018/06/GitHub-Logo.png" />][website]
+[<img align="left" alt="Styled-components" width="26px" src="https://github.com/sjblurton/sjblurton/blob/main/styled-components.png" />][website]
 <br />
 <br />
 
