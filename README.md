@@ -33,22 +33,7 @@
 [<img align="left" alt="Styled-components" width="26px" src="https://github.com/sjblurton/sjblurton/blob/main/styled-components.png" />][website]
 <br />
 <br />
-
-<!-- <details>
-  <summary>:zap: Recent GitHub Activity</summary>
-
-
-1. 🗣 Commented on [#26](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/26) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
-2. ❗️ Closed issue [#25](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/25) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
-3. 🗣 Commented on [#25](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/25) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
-4. ❗️ Closed issue [#20](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/20) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
-5. ❗️ Closed issue [#23](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/23) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
-
-</details>
-<details>
-  <summary>:zap: GitHub Stats</summary>
-</details> -->
-  <img align="left" alt="Simon Blurton GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sjblurton&show_icons=true&hide_border=true" />
+<img align="left" alt="Simon Blurton GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sjblurton&show_icons=true&hide_border=true&theme=dark" />
 
 [website]: https://simon-blurton.netlify.app/
 [linkedin]: https://www.linkedin.com/in/simon-blurton/
