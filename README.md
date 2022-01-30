@@ -1,6 +1,6 @@
 ### Hi there, I'm Simon Blurton - [MyPortfolio][website] 👋
 
-## I'm a Rock Climber, Mountain Biker, and Developer!!
+## I'm a Rock Climber, Problem Sovlver, and Developer!!
 
 - 🧗‍♂️ I’m currently working on a vegan climbing shoe app: [V-Climb Repo][latest]!
 - 🌱 I’m currently learning Typescript 🤣
@@ -12,6 +12,7 @@
 
 [<img align="left" alt="https://simon-blurton.netlify.app/" width="22px" src="https://simon-blurton.netlify.app/favicon.svg" />][website]
 [<img align="left" alt="Simon Blurton | LinkedIn" width="22px" src="https://cdn.freebiesupply.com/logos/large/2x/linkedin-icon-logo-png-transparent.png" />][linkedin]
+[<img align="left" alt="Simon Blurton | Twitter" width="22px" src="https://wie.ieee.org/wp-content/uploads/2019/06/twitter-logo-transparent-15.png" />][twitter]
 [<img align="left" alt="Simon Blurton | Email" width="22px" src="https://www.logolynx.com/images/logolynx/1f/1f9a438eaaf4f20885ecd763723479e7.png" />](mailto:sblurton@hotmail.co.uk)
 <br />
 
@@ -38,3 +39,4 @@
 [website]: https://simon-blurton.netlify.app/
 [linkedin]: https://www.linkedin.com/in/simon-blurton/
 [latest]: https://github.com/sjblurton/vegan-climbing-shoes/
+[twitter]: https://twitter.com/SimonBlurton
