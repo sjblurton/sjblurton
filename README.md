@@ -38,5 +38,5 @@
 
 [website]: https://simon-blurton.netlify.app/
 [linkedin]: https://www.linkedin.com/in/simon-blurton/
-[latest]: https://github.com/sjblurton/vegan-climbing-shoes/
+[latest]: https://github.com/sjblurton/v-climb-nextjs
 [twitter]: https://twitter.com/SimonBlurton
