@@ -3,7 +3,7 @@
 ## I'm a Rock Climber, Problem Sovlver, and Developer!!
 
 - 🧗‍♂️ I’m currently working on a vegan climbing shoe app: [V-Climb Repo][latest]!
-- 🌱 I’m currently learning PostgreSQL
+- 🌱 I’m currently learning Typescript
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I volunteer for Sea Shepard going to sea to save the world!
