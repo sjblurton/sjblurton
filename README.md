@@ -23,15 +23,16 @@
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][website]
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][website]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][website]
-[<img align="left" alt="Typescript" width="26px" src="https://codingthesmartway.com/wp-content/uploads/2019/12/logo_typescript.png" />][website]
+[<img align="left" alt="Typescript" width="26px" src="https://codingthesmartway.com/wp-content/uploads/2019/12/logo_typescript.png" />][latest]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][website]
 [<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][website]
-[<img align="left" alt="next.js" width="26px" src="https://img.stackshare.io/service/5936/nextjs.png" />][website]
+[<img align="left" alt="next.js" width="26px" src="https://img.stackshare.io/service/5936/nextjs.png" />][latest]
 [<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][website]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][website]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]
 [<img align="left" alt="GitHub" width="26px" src="https://bitemycoin.com/wp-content/uploads/2018/06/GitHub-Logo.png" />][website]
 [<img align="left" alt="Styled-components" width="26px" src="https://github.com/sjblurton/sjblurton/blob/main/styled-components.png" />][website]
+[<img align="left" alt="ProstgeSQL" width="26px" src="https://prnewswire2-a.akamaihd.net/p/1893751/sp/189375100/thumbnail/entry_id/0_sn5vot3k/def_height/2700/def_width/2700/version/100012/type/1" />][latest]
 <br />
 <br />
 <img align="left" alt="Simon Blurton GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sjblurton&show_icons=true&hide_border=true&theme=dark" />
