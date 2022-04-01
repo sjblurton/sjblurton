@@ -2,8 +2,8 @@
 
 ## I'm a Rock Climber, Problem Sovlver, and Developer!!
 
-- 🧗‍♂️ I’m currently working on a vegan climbing shoe app: [V-Climb Repo][latest]!
-- 🌱 I’m currently learning Docker, with the intent to beable to work on more Open Source projects.
+- 🧗‍♂️ I’m currently working custom react hooks package to be uploaded to NPM: [custom-react-hooks Repo][latest]!
+- 🌱 I’m currently learning react testing.
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I volunteer for Sea Shepard going to sea to save the world!
@@ -39,5 +39,5 @@
 
 [website]: https://simon-blurton.netlify.app/
 [linkedin]: https://www.linkedin.com/in/simon-blurton/
-[latest]: https://github.com/sjblurton/v-climb-nextjs
+[latest]: https://github.com/sjblurton/custom-react-hooks
 [twitter]: https://twitter.com/SimonBlurton
