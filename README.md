@@ -11,10 +11,10 @@
 
 ### Connect with me through:
 ### [My Portfolio Website][website] [<img align="left" alt="Simon Blurton | My Portfolio Home Page" width="32px" src="https://simon-blurton.netlify.app/favicon.svg" />][website]
-### [LinkIn][linkedin] [<img align="left" alt="Simon Blurton | LinkedIn" width="32px" src="https://cdn.freebiesupply.com/logos/large/2x/linkedin-icon-logo-png-transparent.png" />][linkedin]
+### [LinkedIn][linkedin] [<img align="left" alt="Simon Blurton | LinkedIn" width="32px" src="https://cdn.freebiesupply.com/logos/large/2x/linkedin-icon-logo-png-transparent.png" />][linkedin]
 ### [Twitter][twitter] [<img align="left" alt="Simon Blurton | Twitter" width="32px" src="https://wie.ieee.org/wp-content/uploads/2019/06/twitter-logo-transparent-15.png" />][twitter]
 ### [NPM][npm][<img align="left" alt="Simon Blurton | NPM Profile" width="32px" src="https://authy.com/wp-content/uploads/npm-logo.png" />][npm]
-### [MyEmail](mailto:sblurton@hotmail.co.uk) [<img align="left" alt="Simon Blurton | Email" width="32px" src="https://www.logolynx.com/images/logolynx/1f/1f9a438eaaf4f20885ecd763723479e7.png" />](mailto:sblurton@hotmail.co.uk)
+### [Email](mailto:sblurton@hotmail.co.uk) [<img align="left" alt="Simon Blurton | Email" width="32px" src="https://www.logolynx.com/images/logolynx/1f/1f9a438eaaf4f20885ecd763723479e7.png" />](mailto:sblurton@hotmail.co.uk)
 <br />
 
 ### Languages and Tools:
