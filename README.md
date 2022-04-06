@@ -10,16 +10,11 @@
 - ⚡ Fun fact: I volunteer for Sea Shepard going to sea to save the world!
 
 ### Connect with me:
-### [MyPortfolio][website]
-### [<img align="left" alt="Simon Blurton | My Portfolio Home Page" width="22px" src="https://simon-blurton.netlify.app/favicon.svg" />][website]
-### [MyLinkIn][linkedin]
-### [<img align="left" alt="Simon Blurton | LinkedIn" width="22px" src="https://cdn.freebiesupply.com/logos/large/2x/linkedin-icon-logo-png-transparent.png" />][linkedin]
-### [MyTwitter][twitter]
-### [<img align="left" alt="Simon Blurton | Twitter" width="22px" src="https://wie.ieee.org/wp-content/uploads/2019/06/twitter-logo-transparent-15.png" />][twitter]
-# [MyNPM][npm]
-### [<img align="left" alt="Simon Blurton | NPM Profile" width="22px" src="https://authy.com/wp-content/uploads/npm-logo.png" />][npm]
-### [MyEmail](mailto:sblurton@hotmail.co.uk)
-### [<img align="left" alt="Simon Blurton | Email" width="22px" src="https://www.logolynx.com/images/logolynx/1f/1f9a438eaaf4f20885ecd763723479e7.png" />](mailto:sblurton@hotmail.co.uk)
+### [MyPortfolio][website] [<img align="left" alt="Simon Blurton | My Portfolio Home Page" width="22px" src="https://simon-blurton.netlify.app/favicon.svg" />][website]
+### [MyLinkIn][linkedin] [<img align="left" alt="Simon Blurton | LinkedIn" width="22px" src="https://cdn.freebiesupply.com/logos/large/2x/linkedin-icon-logo-png-transparent.png" />][linkedin]
+### [MyTwitter][twitter] [<img align="left" alt="Simon Blurton | Twitter" width="22px" src="https://wie.ieee.org/wp-content/uploads/2019/06/twitter-logo-transparent-15.png" />][twitter]
+### [MyNPM][npm][<img align="left" alt="Simon Blurton | NPM Profile" width="22px" src="https://authy.com/wp-content/uploads/npm-logo.png" />][npm]
+### [MyEmail](mailto:sblurton@hotmail.co.uk) [<img align="left" alt="Simon Blurton | Email" width="22px" src="https://www.logolynx.com/images/logolynx/1f/1f9a438eaaf4f20885ecd763723479e7.png" />](mailto:sblurton@hotmail.co.uk)
 <br />
 
 ### Languages and Tools:
