@@ -34,7 +34,7 @@
 [<img align="left" alt="GitHub" width="32px" src="https://bitemycoin.com/wp-content/uploads/2018/06/GitHub-Logo.png" />][website]
 [<img align="left" alt="Styled-components" width="32px" src="https://github.com/sjblurton/sjblurton/blob/main/styled-components.png" />][website]
 [<img align="left" alt="ProstgeSQL" width="32px" src="https://prnewswire2-a.akamaihd.net/p/1893751/sp/189375100/thumbnail/entry_id/0_sn5vot3k/def_height/2700/def_width/2700/version/100012/type/1" />][vclimb]
-[<img align="left" alt="Firebase" width="32px" src="https://pluspng.com/img-png/firebase-logo-png-firebase-logo-png-transparent-amp-svg-vector-pluspng-2400x3291.png" />][big6]
+[<img align="left" alt="Firebase" width="32px" src="https://4.bp.blogspot.com/-Fxo_qnGJBj0/WRoDPNdlEII/AAAAAAAABF0/1mSHmv5gleQaCsHKEDgTB3DbNghjCXvZACLcB/s1600/logo_firebase_1920px_clr.png" />][big6]
 <br />
 <br />
 <img align="left" alt="Simon Blurton GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sjblurton&show_icons=true&hide_border=true&theme=dark" />
