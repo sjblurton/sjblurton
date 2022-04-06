@@ -2,17 +2,19 @@
 
 ## I'm a Rock Climber, Problem Sovlver, and Developer!!
 
-- 🧗‍♂️ I’m currently working on a custom-react-hooks package to be uploaded to NPM: [custom-react-hooks Repo][latest]!
+- 🧗‍♂️ I’m currently working on a library of custom-react-hooks: [custom-react-hooks Repo][latest]!
 - 🌱 I’m currently learning react testing.
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 👯 I’m looking to collaborate with other content creators.
+- 🥅 2022 Goals: Contribute more to Open Source projects.
+- 📦 I'm currrently building a library of NPM packages.
 - ⚡ Fun fact: I volunteer for Sea Shepard going to sea to save the world!
 
 ### Connect with me:
 
-[<img align="left" alt="https://simon-blurton.netlify.app/" width="22px" src="https://simon-blurton.netlify.app/favicon.svg" />][website]
+[<img align="left" alt="Simon Blurton | My Portfolio Home Page" width="22px" src="https://simon-blurton.netlify.app/favicon.svg" />][website]
 [<img align="left" alt="Simon Blurton | LinkedIn" width="22px" src="https://cdn.freebiesupply.com/logos/large/2x/linkedin-icon-logo-png-transparent.png" />][linkedin]
 [<img align="left" alt="Simon Blurton | Twitter" width="22px" src="https://wie.ieee.org/wp-content/uploads/2019/06/twitter-logo-transparent-15.png" />][twitter]
+[<img align="left" alt="Simon Blurton | NPM Profile" width="22px" src="https://authy.com/wp-content/uploads/npm-logo.png" />][npm]
 [<img align="left" alt="Simon Blurton | Email" width="22px" src="https://www.logolynx.com/images/logolynx/1f/1f9a438eaaf4f20885ecd763723479e7.png" />](mailto:sblurton@hotmail.co.uk)
 <br />
 
@@ -41,3 +43,4 @@
 [linkedin]: https://www.linkedin.com/in/simon-blurton/
 [latest]: https://github.com/sjblurton/custom-react-hooks
 [twitter]: https://twitter.com/SimonBlurton
+[npm]: https://www.npmjs.com/~sjblurton
