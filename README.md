@@ -2,7 +2,7 @@
 
 ## I'm a Rock Climber, Problem Sovlver, and Developer!!
 
-- 🧗‍♂️ I’m currently working on a library of custom-react-hooks: [custom-react-hooks Repo][latest]!
+- 🧗‍♂️ I’m currently working on a library of custom-react-hooks on NPM: [custom-react-hooks][npm]!
 - 🌱 I’m currently learning react testing.
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 2022 Goals: Contribute more to Open Source projects.
