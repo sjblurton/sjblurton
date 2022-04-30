@@ -2,11 +2,11 @@
 
 ## I'm a Rock Climber, Problem solver, and Developer!!
 
-- 🧗‍♂️ I’m currently working on a library of custom-react-hooks on NPM: [custom-react-hooks][npm]!
+- 🧗‍♂️ I’m currently rebuilding Big6 app into TypeScript: [Big6-TypeScript][latest]!
 - 🌱 I’m currently learning the React testing libraries.
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 2022 Goals: Contribute more to Open Source projects.
-- 📦 I'm currrently building a library of NPM packages.
+- 📦 I have a library of React custom hooks in NPM packages.
 - ⚡ Fun fact: I volunteer for Sea Shepard going to sea to save the world!
 
 ### Connect with me through:
@@ -43,6 +43,6 @@
 [vclimb]: https://github.com/sjblurton/v-climb-nextjs
 [website]: https://simon-blurton.netlify.app/
 [linkedin]: https://www.linkedin.com/in/simon-blurton/
-[latest]: https://github.com/sjblurton/custom-react-hooks
+[latest]: https://github.com/sjblurton/big6-typescript
 [twitter]: https://twitter.com/SimonBlurton
 [npm]: https://www.npmjs.com/~sjblurton
