@@ -2,7 +2,7 @@
 
 ## I'm a Rock Climber, Problem solver, and Developer!!
 
-- 🧗‍♂️ I’m currently rebuilding Big6 app into TypeScript: [Big6-TypeScript][latest]!
+- 🧗‍♂️ I’m currently building Quacker as my side project. Twitter but for quacks, and bots? 🤔
 - 🌱 I’m currently learning the React testing libraries.
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 2022 Goals: Contribute more to Open Source projects.
