@@ -28,7 +28,7 @@ I'm passionate about building clean, scalable code and solving challenging probl
 
 **Backend:**
 
-- Node.js, TypeScript, OOP, Cloudflare workers
+- Node.js, TypeScript, OOP, Cloudflare Workers, SQL, non-SQL
 
 **Version Control:**
 
