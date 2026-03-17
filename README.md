@@ -6,9 +6,9 @@ I'm passionate about building clean, scalable code and solving challenging probl
 
 🧗 **My current project:** [Big 6 App](https://github.com/sjblurton/big-6-app) - A fitness tracking app, currently being rebuilt using OOP principles and TypeScript.
 
-- 🌱 I'm learning OOP
+- 🌱 I'm learning better code architecture
 - 👯 I’m looking to collaborate with other content creators.
-- 🥅 2024 Goals: Contribute more to Open Source projects.
+- 🥅 2026 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I volunteer for Sea Shepherd going to sea to save the world!
 
 ### Connect with me:
@@ -24,7 +24,7 @@ I'm passionate about building clean, scalable code and solving challenging probl
 
 **Frontend:**
 
-- HTML, CSS, SCSS, React, Next.js, Typescript
+- HTML, CSS, SCSS, React, Next.js, Typescript, vite
 
 **Backend:**
 
