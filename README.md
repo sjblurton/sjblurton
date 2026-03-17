@@ -8,7 +8,7 @@ I'm passionate about building clean, scalable code and solving challenging probl
 
 - 🌱 I'm learning better code architecture
 - 👯 I’m looking to collaborate with other content creators.
-- 🥅 2026 Goals: Contribute more to Open Source projects.
+- 🥅 2026 Goals: Update my portfolio with the new skills I learnt.
 - ⚡ Fun fact: I volunteer for Sea Shepherd going to sea to save the world!
 
 ### Connect with me:
