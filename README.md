@@ -4,7 +4,7 @@
 
 I'm passionate about building clean, scalable code and solving challenging problems, both in development and on the rocks.
 
-🧗 **My current project:** [Big 6 App](https://github.com/sjblurton/big-6-app) - A fitness tracking app, currently being rebuilt using OOP principles and TypeScript.
+🧗 **My current project:** [Rota App](https://github.com/sjblurton/rota-app) - Full stack app for for staff rotas.
 
 - 🌱 I'm learning better code architecture
 - 👯 I’m looking to collaborate with other content creators.
