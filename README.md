@@ -1,4 +1,4 @@
-# Hi, I'm Simon 👋
+# Simon Blurton — Frontend Developer (React / TypeScript)
 
 Frontend Developer specialising in React and TypeScript with 4.5 years of commercial experience building scalable web applications, complex UI workflows, and data-heavy interfaces.
 
