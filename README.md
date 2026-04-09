@@ -1,47 +1,66 @@
-### Hi there, I'm Simon Blurton! 👋
+# Hi, I'm Simon 👋
 
-**Rock Climber | Problem Solver | Developer**
+Frontend Developer specialising in React and TypeScript with 4.5 years of commercial experience building scalable web applications, complex UI workflows, and data-heavy interfaces.
 
-I'm passionate about building clean, scalable code and solving challenging problems, both in development and on the rocks.
+Recently promoted to Senior Software Developer within six months at Connexin. Passionate about testing, architecture, and modern development practices including AI-assisted workflows.
 
-🧗 **My current project:** [Rota App](https://github.com/sjblurton/rota-app) - Full stack app for for staff rotas.
+---
 
-- 🌱 I'm learning better code architecture
-- 👯 I’m looking to collaborate with other content creators.
-- 🥅 2026 Goals: Workig with AI more to increase productivity.
-- ⚡ Fun fact: I volunteer for Sea Shepherd going to sea to save the world!
+## 🚀 Tech Stack
+- React
+- TypeScript
+- Node.js
+- Material UI (MUI)
+- GraphQL (Apollo Client)
+- Zustand / useReducer / Context API
+- Jest / Cypress / Playwright
+- REST APIs
+- Microservices architecture
 
-### Connect with me:
+---
 
-- **Portfolio**: [My Portfolio Website][website] - Check out my projects and work experience.
-- **LinkedIn**: [Connect with me on LinkedIn][linkedin] - Let's collaborate or discuss job opportunities.
-- **NPM**: [View my NPM Profile][npm] - See the packages I've published or contributed to.
-- **Email**: [Reach out via Email](mailto:sblurton@hotmail.co.uk) - I'm open to job offers and collaboration requests.
+## 🧠 Currently Exploring
+- AI-assisted development workflows
+- Orchestrated AI / multi-agent coding
+- Advanced state management patterns
+- Complex data table architectures
 
-<br />
+---
 
-### Languages and Tools:
+## 📌 Current Projects
 
-**Frontend:**
+### Staff Rota Application (In Progress)
+React + TypeScript scheduling application  
+Exploring orchestrated AI workflows and multi-agent tooling  
+Modern state management architecture  
 
-- HTML, CSS, SCSS, React, Next.js, Typescript, vite
+### CMS Website Builder (In Progress)
+CMS-driven site builder for small business  
+AI-assisted development workflows  
+Designed as portfolio showcase  
 
-**Backend:**
+---
 
-- Node.js, TypeScript, OOP, Cloudflare Workers, SQL, non-SQL
+## 🌍 About Me
+- 4.5 years commercial experience
+- Promoted to Senior Developer in 6 months
+- Built CMS, POS systems, and internal tooling
+- Volunteer with Sea Shepherd marine conservation missions
+- Visited 90+ countries
 
-**Version Control:**
+---
 
-- Git
+## 📫 Contact
+- LinkedIn: https://linkedin.com/in/simon-blurton
+- GitHub: https://github.com/sjblurton
+
+Currently open to Frontend Developer (React / TypeScript) roles.
+
 
 <br />
 <img align="left" alt="Simon Blurton GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sjblurton&show_icons=true&hide_border=true&theme=dark" />
 
 ### Thank you for visiting my GitHub profile!
 
-Feel free to reach out if you'd like to collaborate, discuss projects, or just chat about climbing.
-
-[website]: https://simon-blurton.netlify.app/
-[linkedin]: https://www.linkedin.com/in/simon-blurton/
 [npm]: https://www.npmjs.com/~sjblurton
 
