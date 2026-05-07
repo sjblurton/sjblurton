@@ -34,7 +34,7 @@ React + TypeScript scheduling application
 Exploring orchestrated AI workflows and multi-agent tooling  
 Modern state management architecture  
 
-### CMS Website Builder (In Progress)
+### CMS Website Builder (In Use)
 CMS-driven site builder for small business  
 AI-assisted development workflows  
 Designed as portfolio showcase  
